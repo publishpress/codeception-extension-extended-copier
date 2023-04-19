@@ -1,0 +1,18 @@
+{
+    "name": "publishpress/codeception-extension-extended-copier",
+    "description": "Codeception extension that extends WPBrowser's Copier extension, allowing to create parent directories and copy the same files multiple times.",
+    "type": "library",
+    "license": "GPL-2.0-or-later",
+    "autoload": {
+        "psr-4": {
+            "PublishPress\\Codeception\\Extension\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Anderson Martins",
+            "email": "anderson@publishpress.com"
+        }
+    ],
+    "require": {}
+}
